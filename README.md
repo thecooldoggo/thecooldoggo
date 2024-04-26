@@ -1,5 +1,5 @@
 <h1 align="left">Hi I'm TheCoolDoggo!</h1>
-<h2 align="left">You most likly know me from my where youtube, where I post fortnite content. </h2>
+<h2 align="left">You most likly know me from my youtube, where I post fortnite content. </h2>
 <h3 align="left">All socials are on my website https://thecooldoggo.studio </h3>
 <h4 align="left">My projects are coded on mac so if they do not work on windows or linux, let me know! </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thedog-bot&label=Profile%20views&color=0e75b6&style=flat" alt="thedog-bot" /> </p>
