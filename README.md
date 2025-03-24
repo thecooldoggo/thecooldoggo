@@ -1,7 +1,6 @@
 <h1 align="left">Hi I'm TheCoolDoggo!</h1>
 <h2 align="left">You most likly know me from Discord or YouTube.</h2>
 <h3 align="left">I also love developing stuff, and things I open source will stay here!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecooldoggo&label=Profile%20views&color=0e75b6&style=flat" alt="thecooldoggo" /> </p>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
