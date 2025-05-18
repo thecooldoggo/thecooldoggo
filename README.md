@@ -1,6 +1,6 @@
 <h1 align="left">Hi I'm TheCoolDoggo!</h1>
 <h2 align="left">You most likly know me from Discord or YouTube.</h2>
-<h3 align="left">I also love developing stuff, and things I open source will stay here!</h3>
+<h3 align="left">I love developing stuff, and projects I open source will stay here!</h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
